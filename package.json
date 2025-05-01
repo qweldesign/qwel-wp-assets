@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/taigoito/qwel-assets.git"
+    "url": "git+https://github.com/qweldesign/qwel-assets.git"
   },
   "author": "Taigo Ito",
   "license": "GPL",
   "bugs": {
-    "url": "https://github.com/taigoito/qwel-assets/issues"
+    "url": "https://github.com/qweldesign/qwel-assets/issues"
   },
-  "homepage": "https://github.com/taigoito/qwel-assets#readme"
+  "homepage": "https://github.com/qweldesign/qwel-assets#readme"
 }
